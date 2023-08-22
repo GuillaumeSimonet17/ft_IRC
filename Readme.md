@@ -1,4 +1,4 @@
-Project to test on Linux
+Project to be launched on Linux
 
 ft_IRC is an IRC server, following standard Internet RFCs.
 
